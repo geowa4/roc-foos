@@ -1,0 +1,9 @@
+{
+  "firebase": "roc-foos",
+  "public": "dist",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
